@@ -10,3 +10,4 @@ where facult = 'АП'
 SELECT id, first_name, middle_name, last_name, birth_date 
 FROM student 
 WHERE birth_date  <= '2003-01-01 00:00:00';
+орнонон
